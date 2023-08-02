@@ -1,0 +1,8 @@
+D:\ps\ps21\ps21\obj\Debug\ps21.csproj.AssemblyReference.cache
+D:\ps\ps21\ps21\obj\Debug\ps21.csproj.SuggestedBindingRedirects.cache
+D:\ps\ps21\ps21\obj\Debug\ps21.csproj.CoreCompileInputs.cache
+D:\ps\ps21\ps21\bin\Debug\ps21.exe.config
+D:\ps\ps21\ps21\bin\Debug\ps21.exe
+D:\ps\ps21\ps21\bin\Debug\ps21.pdb
+D:\ps\ps21\ps21\obj\Debug\ps21.exe
+D:\ps\ps21\ps21\obj\Debug\ps21.pdb
